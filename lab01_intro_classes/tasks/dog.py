@@ -4,5 +4,5 @@ class Dog:
         self.name = name
 
     def bark(self) -> str:
-        """Возвращает строку 'Woof!'"""
+        return 'Woof!'
         pass
